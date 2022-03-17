@@ -1,7 +1,7 @@
 <img width="100%" src="profile.gif" alt="Hi I'm Shamuhammet">
 
 
-<h3 align="center">A passionate full stack web developer from Turkmenistan</h3>
+<h2 align="center">A passionate full stack web developer from Turkmenistan</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamuhammetylyas&label=Profile%20views&color=0e75b6&style=flat" alt="shamuhammetylyas" /> </p>
 
