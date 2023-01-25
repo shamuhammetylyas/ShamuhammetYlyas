@@ -1,21 +1,17 @@
 <img width="100%" src="profile.gif" alt="Hi I'm Shamuhammet">
 
 
-<h3 align="center">A passionate full stack web developer from Turkmenistan</h3>
+<h3 align="center">A backend developer from Turkmenistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamuhammetylyas&label=Profile%20views&color=0e75b6&style=flat" alt="shamuhammetylyas" /> </p>
 
-- 🔭 I’m currently working on **Laravel app**
+- 🔭 I’m currently working on **Go web app**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **microservices**
 
-- 👯 I’m looking to collaborate on **Skype**
+- 💬 Ask me about **PHP(Laravel), Go(Go programming language)**
 
-- 🤝 I’m looking for help with **Microservices**
-
-- 💬 Ask me about **PHP(Laravel), Vue.js (Nuxt.js)**
-
-- 📫 How to reach me **i.shamuhammed.webdev@gmail.com**
+- 📫 How to reach me **shamuhammetylyas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <hr>
@@ -30,7 +26,7 @@
 <table><tbody><tr><td valign="top" width="33%">
 <h3><a id="user-content-frontend" class="anchor" aria-hidden="true" href="#frontend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Frontend</h3>
 <div align="center">  
-<a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="75" height="75"/></a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="75" height="75"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="75" height="75"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="75" height="75"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="75" height="75"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/> </a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/90d0171dc9dabf1fc595dae613ba9a1c3e61db71f559a26e585aa7c965da457f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e7578742e706e67"><img src="https://camo.githubusercontent.com/90d0171dc9dabf1fc595dae613ba9a1c3e61db71f559a26e585aa7c965da457f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e7578742e706e67" alt="Nuxt JS" height="75" width="75" data-canonical-src="https://profilinator.rishav.dev/skills-assets/nuxt.png" style="max-width:100%;"></a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="75" height="75"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/> </a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/90d0171dc9dabf1fc595dae613ba9a1c3e61db71f559a26e585aa7c965da457f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e7578742e706e67"><img src="https://camo.githubusercontent.com/90d0171dc9dabf1fc595dae613ba9a1c3e61db71f559a26e585aa7c965da457f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e7578742e706e67" alt="Nuxt JS" height="75" width="75" data-canonical-src="https://profilinator.rishav.dev/skills-assets/nuxt.png" style="max-width:100%;"></a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 </div>
 </td><td valign="top" width="33%">
 <h3><a id="user-content-backend" class="anchor" aria-hidden="true" href="#backend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Backend</h3>
