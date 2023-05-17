@@ -1,21 +1,36 @@
 <h1 align="center">Hi 👋, I'm Shamuhammet</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">I'm a passionate backend developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shamuhammetylyas&label=Profile%20views&color=0e75b6&style=flat" alt="shamuhammetylyas" /> </p>
 
-
+<table style="width: 100%;" >
+<tbody>
+<tr>
+<td>
 - 🔭 I’m currently working on **Go project**
 
 - 🌱 I’m currently learning **microservices**
 
 - 💬 Ask me about **PHP(Laravel), Go(Go programming language)**
 
-- 📫 How to reach me **shamuhammetylyas@gmail.com**
+- 📫 How to reach me **shamuhammetylyas@gmail.com**</td>
+<td>
+<a href="https://app.daily.dev/Shamuhammet"><img src="https://api.daily.dev/devcards/b835d78e91714adab088ed5323936543.png?r=abp" width="400" alt="Shamuhammet Ylyasov's Dev Card"/></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/https://dev.to/shamuhammet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shamuhammet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shamuhammet-ylyasov-8467661b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shamuhammet-ylyasov-8467661b9/" height="30" width="40" /></a>
+<a href="https://dev.to/shamuhammet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shamuhammet" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shamuhammet-ylyasov-8467661b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shamuhammet-ylyasov-8467661b9/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/shamuhammetylyasogly/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shamuhammetylyasogly/" height="30" width="40" /></a>
 </p>
 
