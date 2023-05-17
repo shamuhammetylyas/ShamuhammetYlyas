@@ -3,17 +3,18 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shamuhammetylyas&label=Profile%20views&color=0e75b6&style=flat" alt="shamuhammetylyas" /> </p>
 
-<table style="width: 100%;" >
+<table style="width: 100%;">
 <tbody>
 <tr>
 <td>
-- 🔭 I’m currently working on **Go project**
 
-- 🌱 I’m currently learning **microservices**
+- 🔭 I’m currently working on **Go project**
 
 - 💬 Ask me about **PHP(Laravel), Go(Go programming language)**
 
-- 📫 How to reach me **shamuhammetylyas@gmail.com**</td>
+- 📫 How to reach me **shamuhammetylyas@gmail.com**
+
+</td>
 <td>
 <a href="https://app.daily.dev/Shamuhammet"><img src="https://api.daily.dev/devcards/b835d78e91714adab088ed5323936543.png?r=abp" width="400" alt="Shamuhammet Ylyasov's Dev Card"/></a>
 </td>
